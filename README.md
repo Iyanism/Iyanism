@@ -2,11 +2,11 @@
 
 # Hi, I'm Pradeep 👋
 
-### **Backend & Systems Engineer**
-*Building resilient APIs, database architectures, and cloud infrastructure close to the metal.*
+### **Backend & Systems Developer**
+*Building APIs, database schemas, and developer tooling.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pradeep-chetri)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradeep93874@gmail.com)
 
 </div>
 
@@ -14,42 +14,54 @@
 
 ### 👨‍💻 About Me
 
-I'm a recent **BCA graduate (USTM, Meghalaya)** focused on backend systems—API design, relational database modeling, and devops pipeline automation. I focus on understanding systems by shipping production-ready code rather than running through tutorials.
+I’m a BCA graduate from **USTM, Meghalaya** who prefers writing working systems over collecting tutorial certificates. My focus is core backend development—understanding how data flows through APIs, how queries perform under load, and how to package applications so they actually run reliably outside `localhost`.
 
-- 🔭 **Building:** **[Omni](https://github.com/your-username/omni)** — A Go-based dev workflow orchestrator for project scaffolding and reusable automation.
-- 🌱 **Learning:** **AWS, Docker, and CI/CD** — Scaling services from *"it works on my machine"* to operated infrastructure.
-- 🎯 **Looking for:** Backend / DevOps internships and entry-level Software Engineering roles.
-- 💬 **Ask me about:** PostgreSQL schema design, FastAPI performance, Go concurrency, or Linux setups.
+- 🔭 **Working on:** **Omni** — a CLI tool written in Go to automate project scaffolding and repetitive dev workflows.
+- 🌱 **Current Focus:** Deepening my practical grasp of Docker, AWS, and CI/CD pipelines to build proper deployment habits early.
+- 🎯 **Looking for:** Entry-level Backend or DevOps roles where I can take on real tickets, learn from senior engineers, and ship code.
+- 💬 **Happy to chat about:** PostgreSQL query optimization, FastAPI vs Fastify, Go concurrency patterns, or Linux terminal setups.
 
 ---
 
 ### 🛠️ Tech Stack
 
-<div align="left">
+#### Languages & Core
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-**Languages**  
-`Go` `Python` `TypeScript` `Rust` `SQL`
+#### Frameworks & Storage
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D7A040?style=flat-square&logo=python&logoColor=white)
 
-**Backend Frameworks & Databases**  
-`FastAPI` `Fastify` `PostgreSQL` `SQLAlchemy` `Redis`
+#### Infrastructure & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-**Infrastructure & Operations**  
-`Docker` `AWS` `Linux` `CI/CD` `Git`
+#### Frontend (Secondary)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-**Frontend (Secondary)**  
-`SvelteKit` `React` `Next.js`
+---
 
-</div>
+### 📊 GitHub Activity
 
-### 📊 GitHub Stats
-
-<div align="center">
+<div>
 
 <a href="https://github.com/Iyanism">
-  <img src="https://github-stats-extended.vercel.app/api?username=Iyanism&hide_title=true&show_icons=true&include_all_commits=true&theme=catppuccin_mocha" alt="Iyanism's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Iyanism&hide_title=true&show_icons=true&include_all_commits=true&theme=catppuccin_mocha" alt="Iyanism's Stats" />
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/Iyanism">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Iyanism&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="Top Languages" />
@@ -63,6 +75,6 @@ I'm a recent **BCA graduate (USTM, Meghalaya)** focused on backend systems—API
 
 *“Build. Break. Understand. Improve.”*
 
-📫 **Let's Connect:** [your-email@example.com](mailto:your-email@example.com)
+📫 **Contact:** [your-email@example.com](mailto:your-email@example.com)
 
 </div>
