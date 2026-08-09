@@ -30,4 +30,4 @@
 ---
 
 ### 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radial)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Iyanism&hide_title=true&show_icons=true&include_all_commits=true&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api?username=Iyanism&hide_title=true&show_icons=true&include_all_commits=true&theme=catppuccin_mocha)
