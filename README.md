@@ -1,33 +1,68 @@
-# Hi there, I'm [Your Name] 👋
+<div align="center">
 
-### 🚀 About Me
-- 🔭 I’m currently working on **[Project Name / Current Role]**
-- 🌱 I’m currently learning **[Technology or Topic]**
-- 💬 Ask me about **[Core Expertise, e.g., React, Python, Distributed Systems]**
-- 📬 How to reach me: **[Email or LinkedIn Link]**
+# Hi, I'm Pradeep 👋
 
----
+### **Backend & Systems Engineer**
+*Building resilient APIs, database architectures, and cloud infrastructure close to the metal.*
 
-### 💻 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+</div>
 
 ---
 
-### ⭐️ Featured Projects
+### 👨‍💻 About Me
 
-#### [Project 1 Name](https://github.com/username/project1)
-> A brief 1-2 sentence description of what this project does and the primary problem it solves.
-- **Tech:** React, Node.js, PostgreSQL
-- **Key Feature:** Achieved 40% faster query performance using optimized indexing.
+I'm a recent **BCA graduate (USTM, Meghalaya)** focused on backend systems—API design, relational database modeling, and devops pipeline automation. I focus on understanding systems by shipping production-ready code rather than running through tutorials.
 
-#### [Project 2 Name](https://github.com/username/project2)
-> A brief description highlighting performance, architecture, or unique features.
-- **Tech:** Python, FastAPI, Docker
+- 🔭 **Building:** **[Omni](https://github.com/your-username/omni)** — A Go-based dev workflow orchestrator for project scaffolding and reusable automation.
+- 🌱 **Learning:** **AWS, Docker, and CI/CD** — Scaling services from *"it works on my machine"* to operated infrastructure.
+- 🎯 **Looking for:** Backend / DevOps internships and entry-level Software Engineering roles.
+- 💬 **Ask me about:** PostgreSQL schema design, FastAPI performance, Go concurrency, or Linux setups.
 
 ---
+
+### 🛠️ Tech Stack
+
+<div align="left">
+
+**Languages**  
+`Go` `Python` `TypeScript` `Rust` `SQL`
+
+**Backend Frameworks & Databases**  
+`FastAPI` `Fastify` `PostgreSQL` `SQLAlchemy` `Redis`
+
+**Infrastructure & Operations**  
+`Docker` `AWS` `Linux` `CI/CD` `Git`
+
+**Frontend (Secondary)**  
+`SvelteKit` `React` `Next.js`
+
+</div>
 
 ### 📊 GitHub Stats
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Iyanism&hide_title=true&show_icons=true&include_all_commits=true&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api?username=Iyanism&hide_title=true&show_icons=true&include_all_commits=true&theme=catppuccin_mocha)
+
+<div align="center">
+
+<a href="https://github.com/Iyanism">
+  <img src="https://github-stats-extended.vercel.app/api?username=Iyanism&hide_title=true&show_icons=true&include_all_commits=true&theme=catppuccin_mocha" alt="Iyanism's GitHub Stats" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Iyanism">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iyanism&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="Top Languages" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+*“Build. Break. Understand. Improve.”*
+
+📫 **Let's Connect:** [your-email@example.com](mailto:your-email@example.com)
+
+</div>
