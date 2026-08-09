@@ -52,7 +52,7 @@ I'm a recent **BCA graduate (USTM, Meghalaya)** focused on backend systems—API
 <br/>
 
 <a href="https://github.com/Iyanism">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iyanism&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Iyanism&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="Top Languages" />
 </a>
 
 </div>
