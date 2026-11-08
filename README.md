@@ -1,30 +1,30 @@
-# Pradeep Chetri
+# Hey, I'm Pradeep 👋
 
-I'm an MCA student at USTM, Meghalaya, based in Guwahati. I mostly work on backend systems: APIs, database design, and the tooling around them. I learn best by building something real, seeing where it breaks, and working out why.
+Computer Science student. I build APIs, databases, and the tools around them, and I'm usually found in a terminal, wondering why something that worked five minutes ago doesn't. 🐛
 
-Right now I'm getting deeper into Django, backend architecture, Linux, and deployment.
+I don't know everything, and I'm fine saying so. What I do is listen, read the docs twice, ask the slightly embarrassing questions, and try to be a little better than I was last month. It's slow, but it adds up.
+
+## What I'm up to right now
+
+- 🐍 Getting properly into Django, after spending a lot of time in FastAPI
+- ⌨️ Rebuilding my Neovim config (it has been "almost done" for a while)
+- 🐧 Learning more Linux and deployment, so my code can survive outside my laptop
+- ☕ Running on tea and an unreasonable number of open browser tabs
 
 ## Projects
 
-- **[Kyros](https://github.com/Iyanism/kyros)**: a multi-tenant cold storage management system built with FastAPI and PostgreSQL, with tests, Docker, and Alembic migrations.
-- **[Omni](https://github.com/Iyanism/omni)**: a Go CLI that scaffolds projects from a declarative TOML manifest.
-- **[Folio](https://github.com/Iyanism/folio)**: my personal portfolio site.
+- 🧊 **[Kyros](https://github.com/Iyanism/kyros)**: a multi-tenant cold storage management system. FastAPI, PostgreSQL, Alembic, Docker, with tests.
+- 🧰 **[Omni](https://github.com/Iyanism/omni)**: a Go CLI that scaffolds projects from a declarative TOML manifest, because I got tired of copying old project folders.
+- 🗂️ **[Folio](https://github.com/Iyanism/folio)**: my portfolio site.
 
 More on my [repositories page](https://github.com/Iyanism?tab=repositories).
 
 ## Stack
 
-- **Languages:** Python, Go, TypeScript, SQL, C
-- **Backend:** FastAPI, Django
-- **Data:** PostgreSQL, Redis
-- **Tools:** Linux, Git, Docker, GitHub Actions, Neovim
+<img src="https://skillicons.dev/icons?i=py,go,ts,js,c,react,nextjs,tailwind,fastapi,django,postgres,redis,linux,git,docker,githubactions,neovim" alt="Tech stack" />
 
-I also work on frontends (React, Next.js, Tailwind) when a project needs one, but backend is where I'm strongest.
+## Say hi
 
-## What I care about
+📫 [pradeep93874@gmail.com](mailto:pradeep93874@gmail.com)
 
-Maintainable services, databases modeled around the actual domain, and understanding performance before optimizing it. I also care about how software behaves outside my local machine.
-
-## Contact
-
-[pradeep93874@gmail.com](mailto:pradeep93874@gmail.com)
+*Build. Break. Understand. Improve.*
