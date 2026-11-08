@@ -19,7 +19,7 @@ I don't know everything, and I'm fine saying so. What I do is listen, read the d
 
 More on my [repositories page](https://github.com/Iyanism?tab=repositories).
 
-## Stack
+## Stack, Gotta Catch'm All
 
 <img src="https://skillicons.dev/icons?i=py,go,ts,c,react,nextjs,tailwind,fastapi,django,postgres,linux,git,neovim,nodejs" alt="Tech stack" />
 
