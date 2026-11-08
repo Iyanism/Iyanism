@@ -13,15 +13,15 @@ I don't know everything, and I'm fine saying so. What I do is listen, read the d
 
 ## Projects
 
-- 🧊 **[Kyros](https://github.com/Iyanism/kyros)**: a multi-tenant cold storage management system. FastAPI, PostgreSQL, Alembic, Docker, with tests.
-- 🧰 **[Omni](https://github.com/Iyanism/omni)**: a Go CLI that scaffolds projects from a declarative TOML manifest, because I got tired of copying old project folders.
-- 🗂️ **[Folio](https://github.com/Iyanism/folio)**: my portfolio site.
+- 🧊 **[Kyros](https://github.com/Iyanism/kyros)**: a multi-tenant cold storage management system. FastAPI, PostgreSQL, Alembic, with tests.
+- 🧰 **[Omni](https://github.com/Iyanism/omni)**: a Go CLI that scaffolds projects from a declarative TOML manifest, because I got tired of trying to install and setup each project before i use them.
+- 🗂️ **[Folio](https://github.com/Iyanism/folio)**: A blog platform which is only here cause its the first project i build i django
 
 More on my [repositories page](https://github.com/Iyanism?tab=repositories).
 
 ## Stack
 
-<img src="https://skillicons.dev/icons?i=py,go,ts,js,c,react,nextjs,tailwind,fastapi,django,postgres,redis,linux,git,docker,neovim,node" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=py,go,ts,c,react,nextjs,tailwind,fastapi,django,postgres,linux,fedora,git,neovim,nodejs" alt="Tech stack" />
 
 ## Say hi
 
