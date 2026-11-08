@@ -21,7 +21,7 @@ More on my [repositories page](https://github.com/Iyanism?tab=repositories).
 
 ## Stack
 
-<img src="https://skillicons.dev/icons?i=py,go,ts,js,c,react,nextjs,tailwind,fastapi,django,postgres,redis,linux,git,docker,githubactions,neovim" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=py,go,ts,js,c,react,nextjs,tailwind,fastapi,django,postgres,redis,linux,git,docker,neovim,node" alt="Tech stack" />
 
 ## Say hi
 
